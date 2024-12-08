@@ -162,11 +162,4 @@ Ensure Python 3.8+ is installed along with the following libraries:
 - [PyTorch](https://pytorch.org/)  
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)  
 
----
 
-This enhanced README aligns directly with your assignment's requirements and provides clarity for repository users or evaluators. Let me know if you need additional refinements!"""
-
-with open("README.md", "w") as file:
-    file.write(readme_content)
-
-print("README.md file has been created/updated successfully!")
