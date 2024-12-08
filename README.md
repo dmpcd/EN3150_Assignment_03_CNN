@@ -1,5 +1,5 @@
 
-#**EN3150 Assignment 03**  
+# **EN3150 Assignment 03**  
 
 ## **Project Overview**  
 This repository contains the complete implementation of a **Convolutional Neural Network (CNN)** to perform image classification. The project focuses on developing a custom CNN model and comparing it with fine-tuned, state-of-the-art pre-trained models. The assignment explores the impact of architecture design, optimizer selection, and learning rates on model performance.
