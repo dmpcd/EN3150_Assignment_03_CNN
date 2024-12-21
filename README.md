@@ -133,7 +133,7 @@ Ensure Python 3.8+ is installed along with the following libraries:
 ### **Steps**  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/simple-cnn-classifier.git
+   git clone https://github.com/dmpcd/EN3150_Assignment_03_CNN
    cd simple-cnn-classifier
    ```
 2. Install required libraries:
